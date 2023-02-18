@@ -1,0 +1,92 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.main-heading{
+    text-align: center;
+    font-weight:100;
+    color: hsl(229, 6%, 66%);
+    
+}
+.main-heading p{
+    text-align: center;
+    color:hsl(229, 6%, 66%);
+    margin-top: 10px;
+    margin-bottom: -80px;
+}
+span{
+    color: black;
+    font-weight: 400;
+}
+h1,h3{
+    color: hsl(234,12%,34%);
+}
+.card-wapper{
+    position: relative;
+    box-sizing: border-box;
+}
+.card-wapper p{
+    color:hsl(229, 6%, 66%);
+}
+/* Supervisor */
+.card-1{  
+   border-top-style: solid;border-top-color: hsl(180, 62%, 55%);
+   position: absolute;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+                rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    top:10rem;
+    left: 1rem;
+    height: 200px;
+    width: 350px;
+    border-radius: 5px;
+    padding: 20px;            
+}
+.img-1{
+    padding: 0 0 0 230px;
+}
+/* Team Builder */
+.card-2{
+    border-top-style: solid; border-top-color: hsl(0, 78%, 62%);
+    position: absolute;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+                rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    top:5.5rem;
+    height: 200px;
+    width: 350px;
+    border-radius: 5px;
+    padding: 20px;            
+}
+.img-2{
+    padding: 0 0 0 230px;
+}
+/* Karma */
+ .card-3{
+    border-top-style: solid; border-top-color: hsl(34, 97%, 64%);
+    position: absolute;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+                rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    top:18.6rem;
+    height: 200px;
+    width: 350px;
+    border-radius: 5px;
+    padding: 20px;  
+              
+ }
+ .img-3{
+    padding: 0 0 0 230px;
+ }
+ /* Calculator */
+ .card-4{
+    border-top-style: solid; border-top-color: hsl(212, 86%, 64%);
+    position: absolute;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+                rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    top:10rem;
+    right: 1rem;
+    height: 220px;
+    width: 350px;
+    border-radius: 5px;
+    padding: 20px;            
+ }
+ .img-4{
+    padding: 0 0 0 230px;
+ }
